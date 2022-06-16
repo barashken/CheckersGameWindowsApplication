@@ -1,0 +1,18 @@
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\hapoe\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ב\סמסטר ב\C#\הגשות ובדיקות\Ex02\B22 Ex02 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\hapoe\source\repos\C#\Ex05\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersLogic\obj\Debug\CheckersLogic.pdb

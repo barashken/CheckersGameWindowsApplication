@@ -1,0 +1,5 @@
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersUI\obj\Debug\CheckersUI.GameSettings.resources
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersUI\obj\Debug\CheckersUI.Resources.resources
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersUI\obj\Debug\CheckersUI.csproj.GenerateResource.cache
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersUI\obj\Debug\CheckersUI.csproj.CoreCompileInputs.cache
+C:\Users\S'Weed\Desktop\B22 Ex05 BarAshkenazi 313233181 GalSwid 208456467\CheckersUI\obj\Debug\CheckersUI.csprojAssemblyReference.cache
